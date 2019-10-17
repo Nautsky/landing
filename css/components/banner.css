@@ -1,0 +1,22 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner {
+  background-image: url(https://media.giphy.com/media/MnpOkxsaaEEbm/source.gif);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 0 2px rgba(0, 0, 0, 0.4);;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}

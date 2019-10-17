@@ -1,0 +1,28 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Josefin+Sans:400,700&display=swap" rel="stylesheet');
+
+@import url("components/banner.css");
+@import url("components/buttons.css");
+@import url("components/cards.css");
+@import url("components/footers.css");
+@import url("components/fas.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1, h2, h3, h4 {
+font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Custom design below! */

@@ -1,0 +1,38 @@
+.card img {
+  height: 100px;
+}
+
+.card p {
+  opacity: .5;
+}
+
+.card a {
+  color: rgb(50,50,50);
+}
+
+.card a:visited {
+  color: rgb(100,100,100);
+}
+
+.card a:visited {
+
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+#point:hover, #drink:hover, #dick:hover{
+  box-shadow: 16px 16px 64px rgb(180,180,180);
+}
